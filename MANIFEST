@@ -2,6 +2,6 @@ Changes
 COPYING
 MANIFEST
 Makefile.PL
-Pangram.pm
 README
+lib/Lingua/Pangram.pm
 t/01test.t
