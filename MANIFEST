@@ -1,0 +1,7 @@
+Changes
+COPYING
+MANIFEST
+Makefile.PL
+Pangram.pm
+README
+t/01test.t

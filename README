@@ -1,0 +1,27 @@
+SYNOPSIS
+      use Lingua::Pangram;
+      print "is a pangram" if pangram("a string");
+
+DESCRIPTION
+    This module exports one function - pangram. It returns 1 if the string
+    passed in contains all the letters of the alphabet, otherwise returns 0.
+
+AVAILABILITY
+    It should be available for download from
+    http://russell.matbouli.org/code/lingua-pangram/ or from CPAN
+
+AUTHOR
+    Russell Matbouli <lingua-pangram-spam@russell.matbouli.org>
+
+    http://russell.matbouli.org/
+
+TODO
+    Perhaps create minpangram which tests whether the string contains
+    exactly one of each letter.
+
+LICENSE
+    Distributed under GPL v2. See COPYING included with this distibution.
+
+SEE ALSO
+    perl(1).
+
